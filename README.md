@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 lorem ipsum
 
 ## Deployment
+
+lorem ipsum
+
+even more ipsum
